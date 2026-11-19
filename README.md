@@ -19,6 +19,7 @@ Grok Bots 创建的技能，实时更新。
 - [07 合法生意撮合与匹配](skills/07%20合法生意撮合与匹配/SKILL.md)（库内 id：`deal-matchmaking`）
 - [08 IP交易文件起草与审核](skills/08%20IP交易文件起草与审核/SKILL.md)（库内 id：`ip-deal-docs`）
 - [09 IP估值与谈判支持](skills/09%20IP估值与谈判支持/SKILL.md)（库内 id：`ip-valuation-negotiation`）
+- [10 工作待办进展与后续计划确认卡](skills/10%20工作待办进展与后续计划确认卡/SKILL.md)（库内 id：`skill-1795099619089`）
 
 ## 说明
 
