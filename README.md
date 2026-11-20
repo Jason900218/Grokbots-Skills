@@ -20,6 +20,7 @@ Grok Bots 创建的技能，实时更新。
 - [08 IP交易文件起草与审核](skills/08%20IP交易文件起草与审核/SKILL.md)（库内 id：`ip-deal-docs`）
 - [09 IP估值与谈判支持](skills/09%20IP估值与谈判支持/SKILL.md)（库内 id：`ip-valuation-negotiation`）
 - [10 工作待办进展与后续计划确认卡](skills/10%20工作待办进展与后续计划确认卡/SKILL.md)（库内 id：`skill-1795099619089`）
+- [11 会议纪要自动生成](skills/11%20会议纪要自动生成/SKILL.md)（库内 id：`skill-1795146290783`）
 
 ## 说明
 
